@@ -62,13 +62,9 @@
     <Compile Include="Mappings\OrderItemMap.cs" />
     <Compile Include="Mappings\OrderMap.cs" />
     <Compile Include="Mappings\CustomerMap.cs" />
-    <Compile Include="Migrations\201703240204537_V1.cs" />
-    <Compile Include="Migrations\201703240204537_V1.Designer.cs">
-      <DependentUpon>201703240204537_V1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201703240255367_V2.cs" />
-    <Compile Include="Migrations\201703240255367_V2.Designer.cs">
-      <DependentUpon>201703240255367_V2.cs</DependentUpon>
+    <Compile Include="Migrations\201703290319302_V1.cs" />
+    <Compile Include="Migrations\201703290319302_V1.Designer.cs">
+      <DependentUpon>201703290319302_V1.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -94,11 +90,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201703240204537_V1.resx">
-      <DependentUpon>201703240204537_V1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201703240255367_V2.resx">
-      <DependentUpon>201703240255367_V2.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201703290319302_V1.resx">
+      <DependentUpon>201703290319302_V1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

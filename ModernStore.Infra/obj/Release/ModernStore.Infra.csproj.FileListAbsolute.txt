@@ -14,7 +14,6 @@ C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.In
 C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Infra\bin\Release\EntityFramework.SqlServer.xml
 C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Infra\obj\Release\ModernStore.Infra.csprojResolveAssemblyReference.cache
 C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Infra\obj\Release\ModernStore.Infra.Migrations.V1.resources
-C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Infra\obj\Release\ModernStore.Infra.Migrations.V2.resources
 C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Infra\obj\Release\ModernStore.Infra.csproj.GenerateResource.Cache
 C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Infra\obj\Release\ModernStore.Infra.dll
 C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Infra\obj\Release\ModernStore.Infra.pdb

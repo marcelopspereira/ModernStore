@@ -12,9 +12,8 @@ C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.In
 C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Infra\bin\Debug\ModernStore.Shared.pdb
 C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.dll
 C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.pdb
-C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.Migrations.V1.resources
-C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.csproj.GenerateResource.Cache
-C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.Migrations.V2.resources
 C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Infra\bin\Debug\Dapper.dll
 C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Infra\bin\Debug\Dapper.xml
 C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Infra\bin\Debug\FluentValidator.dll
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.Migrations.V1.resources
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.csproj.GenerateResource.Cache
