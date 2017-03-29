@@ -1,0 +1,10 @@
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain.Test\obj\Debug\ModernStore.Domain.Test.csprojResolveAssemblyReference.cache
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain.Test\bin\Debug\ModernStore.Domain.Test.dll
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain.Test\bin\Debug\ModernStore.Domain.Test.pdb
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain.Test\obj\Debug\ModernStore.Domain.Test.dll
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain.Test\obj\Debug\ModernStore.Domain.Test.pdb
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain.Test\bin\Debug\ModernStore.Domain.dll
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain.Test\bin\Debug\ModernStore.Shared.dll
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain.Test\bin\Debug\ModernStore.Domain.pdb
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain.Test\bin\Debug\ModernStore.Shared.pdb
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain.Test\bin\Debug\FluentValidator.dll

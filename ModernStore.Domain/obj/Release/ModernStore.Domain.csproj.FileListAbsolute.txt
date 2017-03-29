@@ -1,0 +1,10 @@
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain\bin\Release\ModernStore.Domain.dll
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain\bin\Release\ModernStore.Domain.pdb
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain\bin\Release\FluentValidator.dll
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain\bin\Release\ModernStore.Shared.dll
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain\bin\Release\ModernStore.Shared.pdb
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain\obj\Release\ModernStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain\obj\Release\ModernStore.Domain.Resources.EmailTemplates.resources
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain\obj\Release\ModernStore.Domain.csproj.GenerateResource.Cache
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain\obj\Release\ModernStore.Domain.dll
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain\obj\Release\ModernStore.Domain.pdb

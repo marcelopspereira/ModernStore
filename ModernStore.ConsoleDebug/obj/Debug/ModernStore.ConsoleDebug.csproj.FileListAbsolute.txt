@@ -1,0 +1,10 @@
+c:\users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.ConsoleDebug\bin\Debug\ModernStore.ConsoleDebug.exe.config
+c:\users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.ConsoleDebug\bin\Debug\ModernStore.ConsoleDebug.exe
+c:\users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.ConsoleDebug\bin\Debug\ModernStore.ConsoleDebug.pdb
+c:\users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.ConsoleDebug\obj\Debug\ModernStore.ConsoleDebug.csprojResolveAssemblyReference.cache
+c:\users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.ConsoleDebug\obj\Debug\ModernStore.ConsoleDebug.exe
+c:\users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.ConsoleDebug\obj\Debug\ModernStore.ConsoleDebug.pdb
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.ConsoleDebug\bin\Debug\ModernStore.Domain.dll
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.ConsoleDebug\bin\Debug\ModernStore.Shared.dll
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.ConsoleDebug\bin\Debug\ModernStore.Domain.pdb
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.ConsoleDebug\bin\Debug\ModernStore.Shared.pdb

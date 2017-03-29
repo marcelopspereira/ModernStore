@@ -1,0 +1,7 @@
+#:C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Api\ModernStore.Api.xproj
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Api\ModernStore.Api.xproj|C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain\ModernStore.Domain.csproj
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Api\ModernStore.Api.xproj|C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Infra\ModernStore.Infra.csproj
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Api\ModernStore.Api.xproj|C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Shared\ModernStore.Shared.csproj
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain\ModernStore.Domain.csproj|C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Shared\ModernStore.Shared.csproj
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Infra\ModernStore.Infra.csproj|C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Domain\ModernStore.Domain.csproj
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Infra\ModernStore.Infra.csproj|C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Shared\ModernStore.Shared.csproj

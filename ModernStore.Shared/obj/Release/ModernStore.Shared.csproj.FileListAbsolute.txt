@@ -1,0 +1,6 @@
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Shared\bin\Release\ModernStore.Shared.dll
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Shared\bin\Release\ModernStore.Shared.pdb
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Shared\bin\Release\FluentValidator.dll
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Shared\obj\Release\ModernStore.Shared.csprojResolveAssemblyReference.cache
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Shared\obj\Release\ModernStore.Shared.dll
+C:\Users\heitor\documents\visual studio 2015\Projects\ModernStore\ModernStore.Shared\obj\Release\ModernStore.Shared.pdb

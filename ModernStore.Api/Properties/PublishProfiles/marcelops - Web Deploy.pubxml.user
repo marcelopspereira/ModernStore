@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6kw+w+CVW0eh133dBunVIgAAAAACAAAAAAAQZgAAAAEAACAAAAD6G10VQ84r2+czwnPKaasYthOSz65E/UzkFJTFkHfa4QAAAAAOgAAAAAIAACAAAADHar2IvwgbQG9j3SRkqpzryZyLeSvusvRbvF/cCuLJEoAAAAAk9+snouREqhxcK9Pfpgh0ipZdRswX01AclbzKyV5L4a1oFxwD+PO7Z4++8QaRtht39p4QuJrRFZigoXMMXB3VPM0qpaNk6Bi6dLx9VixLPKJE7H0FTMiHqK1NfIymuCMyFURoKA2kdtMpylfB5LBbF+92qju15npSLRhH1P5trUAAAACtkvu3PAd2fV7W8X0kUI+iY2oyRRL+GvYk5QgS7ZTbVXsRopXPMsmH9vnxMJkDnhTnU41pYyq1Jx+gEUb8xZQ1</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="CnnStr">
+      <Value>Server=tcp:mps1807.database.windows.net,1433;Initial Catalog=mpsDB;Persist Security Info=False;User ID=mps;Password=medeve1$;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
